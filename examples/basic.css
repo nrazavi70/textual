@@ -23,6 +23,10 @@ App > View {
   border: hkey;
 }
 
+#header.-visible {
+  visibility: hidden;
+}
+
 #content {
   text: white on #20639b;
   border-bottom: hkey #0f2b41;
